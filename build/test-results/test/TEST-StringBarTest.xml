@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringBarTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-03-27T00:13:04" hostname="ricky-van-xps" time="0.004">
+  <properties/>
+  <testcase name="impatientStrategy" classname="StringBarTest" time="0.0"/>
+  <testcase name="smartStrategyStartClosed" classname="StringBarTest" time="0.001"/>
+  <testcase name="smartStrategyStartOpened" classname="StringBarTest" time="0.001"/>
+  <testcase name="orderStringRecipe" classname="StringBarTest" time="0.0"/>
+  <testcase name="ferengiStartClosed" classname="StringBarTest" time="0.001"/>
+  <testcase name="ferengiAlreadyOpened" classname="StringBarTest" time="0.001"/>
+  <testcase name="romulan" classname="StringBarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
